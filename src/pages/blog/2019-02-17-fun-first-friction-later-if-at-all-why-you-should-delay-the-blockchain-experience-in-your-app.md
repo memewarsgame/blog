@@ -4,9 +4,6 @@ title: >-
   Fun First, Friction Later (if at all): Why you should delay the blockchain
   experience in your app
 date: 2019-02-17T11:32:34.956Z
-description: >
-  Fun First, Friction Later (if at all): Why you should delay the blockchain
-  experience in your app
 ---
 ![](/img/1_bk3hp7b5dne0hogmcp8mxa.jpeg)
 
